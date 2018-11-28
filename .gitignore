@@ -1,0 +1,29 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+
+# ios
+ios/build/*
+xcuserdata
+Pods/
+
+# android
+android/.gradle/
+android/build/
+android/app/
+
+# IntelliJ
+android/*.iml
+android/.idea/workspace.xml
+android/.idea/tasks.xml
+android/.idea/gradle.xml
+android/.idea/assetWizardSettings.xml
+android/.idea/dictionaries
+android/.idea/libraries
+android/.idea/caches
+
+android/local.properties
