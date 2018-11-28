@@ -1,7 +1,7 @@
 IOS and Android examples of [detox](https://github.com/wix/Detox) usage
 
-## Things to install
-
+## Install
+ - git clone git@github.com:ss18/e2e-tests-mobile-native.git
  - [XCode 9.4.1](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_9.4.1/Xcode_9.4.1.xip)
  - [Android Studio 3.2.1](https://developer.android.com/studio/)
  - Install the latest version of [Homebrew](https://brew.sh/)
@@ -15,7 +15,7 @@ brew install applesimutils
 ```
 npm install -g detox-cli
 ```
- - [Add ANDROID_HOME and ANDROID_SDK_ROOT to bash profile (https://stackoverflow.com/questions/19986214/setting-android-home-enviromental-variable-on-mac-os-x/37990108)
+ - Add ANDROID_HOME and ANDROID_SDK_ROOT to bash profile (https://stackoverflow.com/questions/19986214/setting-android-home-enviromental-variable-on-mac-os-x/37990108)
 
 ## Usage
 ```
